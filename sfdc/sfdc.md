@@ -1,4 +1,4 @@
-# Playing with OpenGPT to write code for Salesforce
+# Playing with OpenAI ChatGPT to write code for Salesforce
 
 
 ## Writing Apex Code
