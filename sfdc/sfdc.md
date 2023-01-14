@@ -4,6 +4,8 @@
 ## Writing Apex Code
 ![apex](./openGPT-sf-1.webm.gif)
 
+## Writing script
+![Scripts](./chatGPT-script-1.webm.gif)
 
 ##  Chat with openAI GPT-3 engine!
 
