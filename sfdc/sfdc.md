@@ -4,6 +4,11 @@
 ## Writing Apex Code
 ![apex](./openGPT-sf-1.webm.gif)
 
+## LWC
+![LWC](img/lwc-datatable.png)
+
+## It knows about my sfdx plugin
+![sfdx](img/chatGPT-mohanc-plugin.png)
 ## Writing script
 ![Scripts](./chatGPT-script-1.webm.gif)
 
